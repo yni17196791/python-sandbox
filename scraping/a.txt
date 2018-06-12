@@ -1,0 +1,26 @@
+<p class="s1" style="padding-top: 6pt;padding-left: 143pt;text-indent: 0pt;line-height: 79%;text-align: left;">Human Tissue Repositories</p>
+<p class="s2" style="padding-top: 13pt;padding-left: 147pt;text-indent: -5pt;line-height: 115%;text-align: left;">ÅgBest PracticesÅh for a Biospecimen Resource for the Genomic and Proteomic Era</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s3" style="padding-top: 4pt;padding-left: 147pt;text-indent: 0pt;line-height: 139%;text-align: left;">Elisa Eiseman Gabrielle Bloom Jennifer Brower Noreen Clancy Stuart S. Olmsted</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s4" style="padding-left: 146pt;text-indent: 0pt;line-height: 155%;text-align: left;">Prepared for the National Cancer Institute National Dialogue on Cancer</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s5" style="padding-left: 5pt;text-indent: 0pt;text-align: left;"><span><img alt="image" height="44" src="RAND_MG120/Image_001.png" width="44"/></span> <span><img alt="image" height="10" src="RAND_MG120/Image_002.png" width="55"/></span> <span><img alt="image" height="10" src="RAND_MG120/Image_003.png" width="28"/></span> <span><img alt="image" height="10" src="RAND_MG120/Image_004.png" width="90"/></span></p>
+<p class="s6" style="padding-top: 2pt;padding-left: 34pt;text-indent: 0pt;line-height: 111%;text-align: justify;">The research described in this report was conducted by RAND Science and Technology for the National Cancer Institute and National Dialogue on Cancer.</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s6" style="padding-top: 10pt;padding-left: 141pt;text-indent: 0pt;text-align: left;">ISBN: 0-8330-3527-4</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s1" style="padding-top: 6pt;padding-left: 143pt;text-indent: 0pt;line-height: 79%;text-align: left;">Human Tissue Repositories</p>
+<p class="s2" style="padding-top: 13pt;padding-left: 147pt;text-indent: -5pt;line-height: 115%;text-align: left;">ÅgBest PracticesÅh for a Biospecimen Resource for the Genomic and Proteomic Era</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s3" style="padding-top: 4pt;padding-left: 147pt;text-indent: 0pt;line-height: 139%;text-align: left;">Elisa Eiseman Gabrielle Bloom Jennifer Brower Noreen Clancy Stuart S. Olmsted</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s4" style="padding-left: 146pt;text-indent: 0pt;line-height: 155%;text-align: left;">Prepared for the National Cancer Institute National Dialogue on Cancer</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s5" style="padding-left: 5pt;text-indent: 0pt;text-align: left;"><span><img alt="image" height="44" src="RAND_MG120/Image_001.png" width="44"/></span> <span><img alt="image" height="10" src="RAND_MG120/Image_002.png" width="55"/></span> <span><img alt="image" height="10" src="RAND_MG120/Image_003.png" width="28"/></span> <span><img alt="image" height="10" src="RAND_MG120/Image_004.png" width="90"/></span></p>
+<p class="s6" style="padding-top: 2pt;padding-left: 34pt;text-indent: 0pt;line-height: 111%;text-align: justify;">The research described in this report was conducted by RAND Science and Technology for the National Cancer Institute and National Dialogue on Cancer.</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>
+<p class="s6" style="padding-top: 10pt;padding-left: 141pt;text-indent: 0pt;text-align: left;">ISBN: 0-8330-3527-4</p>
+<p style="text-indent: 0pt;text-align: left;"><br/></p>

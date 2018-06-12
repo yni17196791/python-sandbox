@@ -1,0 +1,14 @@
+AUTHORS.rst
+COPYING
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+agate_excel.egg-info/PKG-INFO
+agate_excel.egg-info/SOURCES.txt
+agate_excel.egg-info/dependency_links.txt
+agate_excel.egg-info/requires.txt
+agate_excel.egg-info/top_level.txt
+agateexcel/__init__.py
+agateexcel/table_xls.py
+agateexcel/table_xlsx.py

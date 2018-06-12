@@ -1,0 +1,3 @@
+α-Sulfo-beta-Alanine has been used to couple to hydrophobic labels like Cyanine and Rhodamine dyes and other hydrophobic residues to increase their solubility in water. As di- or tripeptide a further increase of hydrophilicity can be achieved. Fmoc-beta-Ala(SO3H)-OH can be coupled in SPPS by standard phosphonium or uranium based coupling reagents.
+In high throughput technologies for DNA sequencing and genomics charge-modifi ed dye-labelled dideoxynucleoside-5’-triphosphates were synthesized for ‘direct-load’ applications in DNA sequencing.
+

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "translations": [
+      {
+        "translatedText": "アクチノマイシンDの半合成蛍光誘導体（LS-1004）。 DNAをインターカレーションによってマーキングする。生存率/アポトーシスアッセイに使用される; DNAプライミングRNAポリメラーゼおよびDNAポリメラーゼの 阻害剤。 Latt、SA、染色体構造および複製の蛍光プローブ。 Can J Genet Cytol。 1977、19（4）：603-23。 Schutte、B.ら、分化した神経細胞におけるアポトーシスを測定す るためのツールとしてのアネキシンV結合アッセイ。 J.Neurosci。 Methods 1998,86,63~69。",
+        "model": "nmt"
+      }
+    ]
+  }
+}
+{'data': {'translations': [{'translatedText': '抗癌活性を有する抗生物質（細胞増 殖抑制性、抗腫瘍性）。 DNAをインターカレートし、DNA複製および転写を妨害する。 1.Sobell、HM、アクチノマイシンおよびDNA転写。 Proc Natl Acad Sci USA 1985、82（16 ）：5328-31。 2. Turan、T.ら、妊娠性絨毛腫瘍のEMA / CO（エトポシド、メトトレキセート、アクチノマイシンD、シクロホスファミド、ビンクリスチン）化学療法の結果。 Int J Gynecol Cancer 2006,16（3）：1432-8。', 'model': 'nmt'}]}}
+{'data': {'translations': [{'translatedText': '', 'model': 'nmt'}]}}
+{'data': {'translations': [{'translatedText': '真菌Trichoderma virideによって産 生されたαヘリックスペプチド抗生物質。これは、膜中に4量体および6量体の電位依存性イオンチャネルを形成し、人工的なメンブランジ全体の神経活動電位を模倣することができる。 1. Fox、RO Jr、Richards、FM、1.5-A分解能のアラメチシンの結晶構造から推測 された電位依存性イオンチャネルモデル。自然。 1982; 300（5890）：325-30。 Mathew 、MK、Balaram P.、Alamethicinおよび関連する膜チャネル形成ポリペプチド。 Mol Cell Biochem。 1983; 50（1）：47-64。 3. Stella、L.ら、脂質膜とのアラメチシン相互作 用：合成類似体に関する分光学的研究。 Chem Biodivers。 2007; 4（6）：1299-312。', 'model': 'nmt'}]}}
